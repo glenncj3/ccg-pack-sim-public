@@ -1,0 +1,171 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`regression: openPacks output unchanged > exact seeded pack contents match snapshot 1`] = `
+[
+  [
+    {
+      "c": "c_8",
+      "r": "c",
+    },
+    {
+      "c": "c_8",
+      "r": "c",
+    },
+    {
+      "c": "r_4",
+      "r": "r",
+    },
+  ],
+  [
+    {
+      "c": "c_9",
+      "r": "c",
+    },
+    {
+      "c": "c_1",
+      "r": "c",
+    },
+    {
+      "c": "r_4",
+      "r": "r",
+    },
+  ],
+  [
+    {
+      "c": "c_10",
+      "r": "c",
+    },
+    {
+      "c": "c_9",
+      "r": "c",
+    },
+    {
+      "c": "r_5",
+      "r": "r",
+    },
+  ],
+  [
+    {
+      "c": "c_4",
+      "r": "c",
+    },
+    {
+      "c": "c_4",
+      "r": "c",
+    },
+    {
+      "c": "r_1",
+      "r": "r",
+    },
+  ],
+  [
+    {
+      "c": "c_10",
+      "r": "c",
+    },
+    {
+      "c": "c_10",
+      "r": "c",
+    },
+    {
+      "c": "r_5",
+      "r": "r",
+    },
+  ],
+]
+`;
+
+exports[`regression: runCouponCollector output unchanged > exact seeded byName packs-to-complete matches snapshot 1`] = `17.27`;
+
+exports[`regression: runCouponCollector output unchanged > exact seeded byName packs-to-complete matches snapshot 2`] = `6.914990961671607`;
+
+exports[`regression: runCouponCollector output unchanged > exact seeded byName packs-to-complete matches snapshot 3`] = `
+[
+  44,
+  19,
+  12,
+  11,
+  13,
+  13,
+  15,
+  24,
+  14,
+  18,
+]
+`;
+
+exports[`regression: runCouponCollector output unchanged > exact seeded packs-to-complete matches snapshot 1`] = `10.61`;
+
+exports[`regression: runCouponCollector output unchanged > exact seeded packs-to-complete matches snapshot 2`] = `5.205564330598557`;
+
+exports[`regression: runCouponCollector output unchanged > exact seeded packs-to-complete matches snapshot 3`] = `
+[
+  14,
+  7,
+  8,
+  18,
+  16,
+  7,
+  4,
+  8,
+  17,
+  11,
+]
+`;
+
+exports[`regression: runDeckAcquisitionSim output unchanged > exact seeded distribution matches snapshot 1`] = `4.3`;
+
+exports[`regression: runDeckAcquisitionSim output unchanged > exact seeded distribution matches snapshot 2`] = `3.8223029707232783`;
+
+exports[`regression: runDeckAcquisitionSim output unchanged > exact seeded distribution matches snapshot 3`] = `
+[
+  4,
+  9,
+  3,
+  1,
+  8,
+  12,
+  3,
+  1,
+  4,
+  1,
+]
+`;
+
+exports[`regression: runSimulation output unchanged > exact seeded distribution matches snapshot 1`] = `90.09`;
+
+exports[`regression: runSimulation output unchanged > exact seeded distribution matches snapshot 2`] = `3.0922322034413905`;
+
+exports[`regression: runSimulation output unchanged > exact seeded distribution matches snapshot 3`] = `59.91`;
+
+exports[`regression: runSimulation output unchanged > exact seeded distribution matches snapshot 4`] = `3.0922322034413905`;
+
+exports[`regression: runSimulation output unchanged > exact seeded distribution matches snapshot 5`] = `
+[
+  94,
+  93,
+  90,
+  94,
+  87,
+  89,
+  92,
+  86,
+  98,
+  92,
+]
+`;
+
+exports[`regression: runSimulation output unchanged > exact seeded distribution matches snapshot 6`] = `
+[
+  56,
+  57,
+  60,
+  56,
+  63,
+  61,
+  58,
+  64,
+  52,
+  58,
+]
+`;

@@ -1,0 +1,485 @@
+name,rarity,value,relativeWeight
+Thomas - Wide-Eyed Recruit,Common,$0.05 ,1
+Lilo - Snow Artist,Common,$0.10 ,1
+Pudge - Controls the Weather,Uncommon,$0.23 ,1
+Pumbaa - Winter Warthog,Common,$0.05 ,1
+Tiana - Warm and Happy,Common,$0.06 ,1
+Nakoma - Waiting Out the Storm,Common,$0.06 ,1
+Stitch - Carefree Snowboarder,Rare,$1.07 ,1
+Pocahontas - Finding the Way,Common,$0.09 ,1
+David - Protective Snowboarder,Common,$0.05 ,1
+Fangmeyer - Icy Officer,Common,$0.05 ,1
+Chief Powhatan - Protective Leader,Uncommon,$0.23 ,1
+Sarabi - Protecting the Pride,Common,$0.08 ,1
+Grandmother Willow - Ancient Advisor,Uncommon,$0.92 ,1
+Cobra Bubbles - Dedicated Official,Rare,$0.12 ,1
+John Smith - Snow Tracker,Uncommon,$0.05 ,1
+Timon - Snowball Swiper,Rare,$0.13 ,1
+Lilo - Rock Star,Super Rare,$0.60 ,1
+Pleakley - Arctic Naturalist,Uncommon,$0.09 ,1
+Jumba Jookiba - Prolific Inventor,Rare,$0.19 ,1
+Nani - Stage Manager,Uncommon,$0.29 ,1
+Reuben - Sandwich Expert,Rare,$0.52 ,1
+Pocahontas - Peacekeeper,Legendary,$3.38 ,1
+Simba - Playful Pouncer,Uncommon,$0.06 ,1
+Bambi - Ethereal Fawn,Super Rare,$0.43 ,1
+Angel - Siren Singer,Uncommon,$0.23 ,1
+Widow Tweed - Kindly Soul,Rare,$0.14 ,1
+Percy - Pupsicle,Common,$0.06 ,1
+Raging Storm,Super Rare,$0.80 ,1
+Akood et Emuti,Rare,$1.34 ,1
+Mother Will Protect You,Common,$0.06 ,1
+Wisdom of the Willow,Uncommon,$0.11 ,1
+Ohana Means Family,Legendary,$15.80 ,1
+John Smith's Compass,Rare,$0.21 ,1
+Zootopia - Tundratown,Common,$0.05 ,1
+Nala - Romping in the Snow,Common,$0.04 ,1
+Alice - Well-Read Whisper,Uncommon,$0.12 ,1
+Tigger - Bouncing All the Way,Common,$0.10 ,1
+Isis Vanderchill - Ice Queen of St. Canard,Common,$0.05 ,1
+Flit - Reflective Hummingbird,Uncommon,$0.05 ,1
+Morgana Macawber - Self-Centered Spellcaster,Common,$0.04 ,1
+Rabbit - Fed Up,Uncommon,$0.04 ,1
+Pocahontas - Following the Wind,Super Rare,$1.47 ,1
+Darkwing Duck - Darkwolf Dog,Common,$0.05 ,1
+Taran - Magically Armed,Uncommon,$0.06 ,1
+Eeyore - In the Way,Rare,$0.17 ,1
+Meeko - Skittish Scrounger,Uncommon,$0.09 ,1
+Morgana Macawber - Reformed Spellcaster,Rare,$0.12 ,1
+Tinker Bell - Snowflake Collector,Legendary,$1.48 ,1
+Genie - Magical Researcher,Rare,$1.01 ,1
+Anna - Soothing Sister,Legendary,$2.15 ,1
+Kristoff - Icy Explorer,Rare,$0.17 ,1
+Anna - Little Sister,Uncommon,$0.07 ,1
+Marshmallow - Cranky Climber,Rare,$0.25 ,1
+Space Cows - Unexpected Allies,Common,$0.04 ,1
+Christopher Robin - Joining the Fun,Uncommon,$0.20 ,1
+Lumpy - Playful Heffalump,Common,$0.05 ,1
+"Witches of Morva - Orddu, Orwen, and Orgoch",Rare,$0.15 ,1
+Heihei - Persistent Presence,Common,$0.05 ,1
+Pua - Disgruntled Pig,Common,$0.04 ,1
+Sven - Leaping Reindeer,Super Rare,$0.81 ,1
+Do You Want to Build A Snowman?,Rare,$0.35 ,1
+Come Out and Fight!,Common,$0.05 ,1
+Swordplay,Common,$0.05 ,1
+Colors of the Wind,Super Rare,$0.27 ,1
+Mother's Necklace,Uncommon,$0.04 ,1
+Mystical Inkcaster,Rare,$0.09 ,1
+Pot of Honey,Common,$0.05 ,1
+The Frozen Vine - Monstrous Plant,Uncommon,$0.06 ,1
+Mulan - Resourceful Recruit,Super Rare,$1.18 ,1
+Stitch - Naughty Experiment,Common,$0.07 ,1
+Big Mama - Clever and Calming,Uncommon,$0.05 ,1
+Minnie Mouse - Spinning Skater,Common,$0.05 ,1
+Yao - Snow Warrior,Common,$0.03 ,1
+Chien-Po - Snow Warrior,Uncommon,$0.06 ,1
+Ling - Snow Warrior,Rare,$0.21 ,1
+Boomer - Has the Beak,Common,$0.05 ,1
+Chernabog - Unnatural Force,Super Rare,$0.23 ,1
+Dinky - Has the Brains,Common,$0.05 ,1
+Stegmutt - Clumsy Dinosaur,Rare,$0.15 ,1
+Squeaks - Cozy Caterpillar,Common,$0.05 ,1
+Aladdin - On the Edge of Adventure,Common,$0.03 ,1
+Mushu - Sneaky Dragon,Uncommon,$0.06 ,1
+Goofy - Ghost of Jacob Marley,Super Rare,$0.27 ,1
+Copper - Champion of the Forest,Rare,$0.23 ,1
+Copper - Hound Pup,Common,$0.06 ,1
+Vixey - Forest Friend,Uncommon,$0.08 ,1
+Tod - All Alone,Common,$0.05 ,1
+Minnie Mouse - Mrs. Cratchit,Rare,$0.25 ,1
+White Rabbit - Late Again,Uncommon,$0.12 ,1
+Tod - Playful Kit,Rare,$0.25 ,1
+Mickey Mouse - Snowboard Ace,Uncommon,$0.08 ,1
+Tod - Knows All the Tricks,Legendary,$3.29 ,1
+Donald Duck - Fred Honeywell,Legendary,$3.66 ,1
+Strike A Good Match,Common,$0.06 ,1
+Snowball Fight,Common,$0.04 ,1
+Freeze the Vine,Rare,$0.13 ,1
+Education or Elimination,Uncommon,$0.11 ,1
+Snow Fort,Uncommon,$0.16 ,1
+Rafiki's Bakora Staff,Uncommon,$0.05 ,1
+Retro Evolution Device,Rare,$0.16 ,1
+Battering Ram,Rare,$0.20 ,1
+Game Preserve - Protected Land,Common,$0.08 ,1
+Wreck-it Ralph - Raging Wrecker,Legendary,$2.51 ,1
+Scrooge McDuck - Ghostly Ebenezer,Uncommon,$0.15 ,1
+Donald Duck - Nephew Fred,Common,$0.05 ,1
+Taurus Bulba - Steerminator,Common,$0.04 ,1
+Copper - On the Scent,Uncommon,$0.11 ,1
+Mulan - Ready for Battle,Uncommon,$0.10 ,1
+Maui - Snow Slider,Common,$0.04 ,1
+Fa Zhou - Honorable Warrior,Common,$0.07 ,1
+Liquidator - Iced Over,Uncommon,$0.14 ,1
+Elisa Maza - Transformed Gargoyle,Rare,$0.17 ,1
+Iduna - Alarmed Queen,Common,$0.03 ,1
+Agnarr - King of Arendelle,Common,$0.03 ,1
+Negaduck - Evil Doppelganger,Common,$0.10 ,1
+Negaduck - Public Enemy Number One,Rare,$0.29 ,1
+Hercules - Spectral Demigod,Common,$0.05 ,1
+Beast - Snowfield Troublemaker,Super Rare,$0.24 ,1
+Slushy - Glacial Guster,Uncommon,$0.11 ,1
+Goofy - Marley's Clumsy Spirit,Common,$0.05 ,1
+Goofy - Klutzy Skier,Rare,$0.24 ,1
+Olaf - Snowman of Action,Rare,$0.20 ,1
+Elsa - Ice Artisan,Legendary,$3.23 ,1
+Scrooge McDuck - Ebenezer Scrooge,Super Rare,$0.35 ,1
+Elsa - Concerned Sister,Uncommon,$0.09 ,1
+Willie the Giant - Ghost of Christmas Present,Rare,$0.22 ,1
+Nani's Payback,Super Rare,$0.24 ,1
+Force of a Great Typhoon,Common,$0.10 ,1
+Marching Off to Battle,Common,$0.12 ,1
+The Cold Never Bothered Me,Rare,$0.19 ,1
+Grab Your Bow,Uncommon,$0.14 ,1
+Lonely Grave,Uncommon,$0.06 ,1
+Kristoff's Lute,Rare,$0.15 ,1
+Scrooge's Counting House - Ebenezer's Office,Uncommon,$0.10 ,1
+Graveyard of Christmas Future - Lonely Resting Place,Rare,$0.22 ,1
+Beast's Castle - Winter Gardens,Common,$0.08 ,1
+Roo - Little Helper,Uncommon,$0.08 ,1
+Kanga - Peaceful Gatherer,Common,$0.06 ,1
+Piglet - Entranced by Snow,Common,$0.05 ,1
+Mickey Mouse - Tiny Tim's Father,Common,$0.04 ,1
+Minnie Mouse - Tiny Tim's Mother,Common,$0.06 ,1
+Sina - Vigilant Parent,Common,$0.05 ,1
+Honker Muddlefoot - Timid Genius,Common,$0.05 ,1
+Daisy Duck - Isabel,Uncommon,$0.08 ,1
+Darkwing Duck - Drake Mallard,Uncommon,$0.14 ,1
+Jiminy Cricket - Ghost of Christmas Past,Uncommon,$0.08 ,1
+Piglet - Cocoa Maker,Rare,$0.18 ,1
+Gramma Tala - Connected to Nature,Rare,$0.16 ,1
+Gosalyn Mallard - Curious Child,Uncommon,$0.08 ,1
+Darkwing Duck - Dashing Gadgeteer,Super Rare,$0.29 ,1
+Winnie the Pooh - Hungry Bear,Common,$0.05 ,1
+Scrooge McDuck - Reformed Ebenezer,Legendary,$2.65 ,1
+Splatter Phoenix - Rejected Artist,Uncommon,$0.14 ,1
+Pete - Ghost of Christmas Future,Rare,$1.93 ,1
+Moana - Curious Explorer,Legendary,$14.52 ,1
+Tamatoa - Seeker of Shine,Super Rare,$0.29 ,1
+Morty Fieldmouse - Tiny Tim,Rare,$0.23 ,1
+Belle - Snowfield Strategist,Super Rare,$0.69 ,1
+Mickey Mouse - Bob Cratchit,Rare,$0.22 ,1
+Scrooge McDuck - Miserly Ebenezer,Common,$0.07 ,1
+Chief Tui - Weaving a Tale,Common,$0.04 ,1
+Visiting Christmas Past,Rare,$0.18 ,1
+Let It Go,Rare,$0.64 ,1
+Distract,Common,$0.06 ,1
+Wipe Out!,Uncommon,$0.04 ,1
+Blue Smoke,Common,$0.05 ,1
+Tiny Tim's Crutch,Common,$0.04 ,1
+Darkwing's Chair Set,Rare,$0.17 ,1
+Darkwing's Gas Device,Uncommon,$0.11 ,1
+Hidden Trap,Uncommon,$0.06 ,1
+Rapunzel - Ethereal Protector,Rare,$0.15 ,1
+Launchpad - Hideout Defender,Uncommon,$0.11 ,1
+Prince Naveen - Bundled Up,Common,$0.03 ,1
+Darkwing Duck - Crime Fighter,Common,$0.08 ,1
+Li Shang - Solemn Son,Common,$0.06 ,1
+Gantu - Hamsterviel's Accomplice,Uncommon,$0.09 ,1
+Launchpad - Trusty Sidekick,Common,$0.07 ,1
+Donald Duck - Along for the Ride,Common,$0.04 ,1
+Chief - Seasoned Tracker,Uncommon,$0.04 ,1
+Amos Slade - Tenacious Tracker,Common,$0.04 ,1
+McHorn - Ice-Cold Officer,Common,$0.04 ,1
+Duke Weaselton - Surly Crook,Rare,$0.17 ,1
+Li Shang - Valiant Leader,Uncommon,$0.05 ,1
+Nani - No Worries,Common,$0.06 ,1
+Stitch - High Badness Level,Common,$0.07 ,1
+Dr. Hamsterviel - Infamous Scientist,Rare,$0.19 ,1
+Angela - Night Warrior,Super Rare,$0.31 ,1
+Darkwing Duck - Darkwarrior,Rare,$0.23 ,1
+Gigi - Best in Snow,Uncommon,$0.11 ,1
+Grand Councilwoman - Galactic Authority,Rare,$0.16 ,1
+Angel - Experiment 624,Legendary,$37.23 ,1
+Darkwing Duck - Cool Under Pressure,Legendary,$6.54 ,1
+John Smith - Undaunted Protector,Super Rare,$0.18 ,1
+Judy Hopps - Snowball Patrol,Uncommon,$0.13 ,1
+Lilo - Bundled Up,Super Rare,$1.27 ,1
+Keep the Ancient Ways,Uncommon,$0.06 ,1
+The Terror That Flaps in the Night,Common,$0.12 ,1
+Let's Get Dangerous,Rare,$0.24 ,1
+Winterspell,Uncommon,$0.08 ,1
+Nearly Indestructible,Common,$0.04 ,1
+Infra-Pink Ultra Scan Specs,Common,$0.04 ,1
+The Thunderquack,Rare,$0.28 ,1
+Containment Unit,Rare,$0.13 ,1
+Darkwing Tower - Icy Headquarters,Uncommon,$0.10 ,1
+Tiana - Warm and Happy,Epic,$2.99 ,1
+Grandmother Willow - Ancient Advisor,Epic,$18.96 ,1
+Stitch - Carefree Snowboarder,Epic,$22.05 ,1
+Tigger - Bouncing All the Way,Epic,$12.61 ,1
+Anna - Little Sister,Epic,$4.61 ,1
+Genie - Magical Researcher,Epic,$12.05 ,1
+Aladdin - On the Edge of Adventure,Epic,$2.51 ,1
+Mushu - Sneaky Dragon,Epic,$3.02 ,1
+Minnie Mouse - Mrs. Cratchit,Epic,$3.52 ,1
+Hercules - Spectral Demigod,Epic,$3.25 ,1
+Elsa - Concerned Sister,Epic,$3.76 ,1
+Goofy - Klutzy Skier,Epic,$2.78 ,1
+Winnie the Pooh - Hungry Bear,Epic,$9.08 ,1
+Jiminy Cricket - Ghost of Christmas Past,Epic,$3.10 ,1
+Mickey Mouse - Bob Cratchit,Epic,$3.77 ,1
+Donald Duck - Along for the Ride,Epic,$3.72 ,1
+Judy Hopps - Snowball Patrol,Epic,$4.46 ,1
+Rapunzel - Ethereal Protector,Epic,$3.17 ,1
+Lilo - Rock Star,Enchanted,$84.25 ,1
+Ohana Means Family,Enchanted,$160.46 ,1
+Raging Storm,Enchanted,$143.21 ,1
+Eeyore - In the Way,Enchanted,$207.06 ,1
+Anna - Soothing Sister,Enchanted,$115.76 ,1
+Colors of the Wind,Enchanted,$107.99 ,1
+Mulan - Resourceful Recruit,Enchanted,$71.95 ,1
+Tod - Knows All the Tricks,Enchanted,$82.85 ,1
+Freeze the Vine,Enchanted,$57.50 ,1
+Negaduck - Public Enemy Number One,Enchanted,$77.39 ,1
+Elsa - Ice Artisan,Enchanted,$170.21 ,1
+The Cold Never Bothered Me,Enchanted,$85.20 ,1
+Scrooge McDuck - Reformed Ebenezer,Enchanted,$104.75 ,1
+Belle - Snowfield Strategist,Enchanted,$136.07 ,1
+Tamatoa - Seeker of Shine,Enchanted,$75.18 ,1
+Angel - Experiment 624,Enchanted,$215.13 ,1
+Darkwing Duck - Cool Under Pressure,Enchanted,$90.67 ,1
+Let's Get Dangerous,Enchanted,$73.23 ,1
+Pocahontas - Peacekeeper,Iconic,$449.43 ,1
+Moana - Curious Explorer,Iconic,$565.28 ,1
+Thomas - Wide-Eyed Recruit,Foil Common,0.16,1
+Lilo - Snow Artist,Foil Common,0.31,1
+Pudge - Controls the Weather,Foil Uncommon,2.1,1
+Pumbaa - Winter Warthog,Foil Common,0.13,1
+Tiana - Warm and Happy,Foil Common,0.26,1
+Nakoma - Waiting Out the Storm,Foil Common,0.35,1
+Stitch - Carefree Snowboarder,Foil Rare,2.22,1
+Pocahontas - Finding the Way,Foil Common,0.21,1
+David - Protective Snowboarder,Foil Common,0.26,1
+Fangmeyer - Icy Officer,Foil Common,0.13,1
+Chief Powhatan - Protective Leader,Foil Uncommon,0.64,1
+Sarabi - Protecting the Pride,Foil Common,0.29,1
+Grandmother Willow - Ancient Advisor,Foil Uncommon,2.59,1
+Cobra Bubbles - Dedicated Official,Foil Rare,0.35,1
+John Smith - Snow Tracker,Foil Uncommon,0.19,1
+Timon - Snowball Swiper,Foil Rare,0.69,1
+Lilo - Rock Star,Foil Super Rare,2.82,1
+Pleakley - Arctic Naturalist,Foil Uncommon,0.28,1
+Jumba Jookiba - Prolific Inventor,Foil Rare,0.51,1
+Nani - Stage Manager,Foil Uncommon,5.06,1
+Reuben - Sandwich Expert,Foil Rare,1.62,1
+Pocahontas - Peacekeeper,Foil Legendary,7.49,1
+Simba - Playful Pouncer,Foil Uncommon,0.31,1
+Bambi - Ethereal Fawn,Foil Super Rare,2.28,1
+Angel - Siren Singer,Foil Uncommon,1.64,1
+Widow Tweed - Kindly Soul,Foil Rare,0.44,1
+Percy - Pupsicle,Foil Common,0.15,1
+Raging Storm,Foil Super Rare,3.85,1
+Akood et Emuti,Foil Rare,5.62,1
+Mother Will Protect You,Foil Common,0.12,1
+Wisdom of the Willow,Foil Uncommon,0.45,1
+Ohana Means Family,Foil Legendary,20.11,1
+John Smith's Compass,Foil Rare,0.4,1
+Zootopia - Tundratown,Foil Common,0.18,1
+Nala - Romping in the Snow,Foil Common,0.25,1
+Alice - Well-Read Whisper,Foil Uncommon,0.31,1
+Tigger - Bouncing All the Way,Foil Common,0.42,1
+Isis Vanderchill - Ice Queen of St. Canard,Foil Common,0.32,1
+Flit - Reflective Hummingbird,Foil Uncommon,0.32,1
+Morgana Macawber - Self-Centered Spellcaster,Foil Common,0.22,1
+Rabbit - Fed Up,Foil Uncommon,0.29,1
+Pocahontas - Following the Wind,Foil Super Rare,4.94,1
+Darkwing Duck - Darkwolf Dog,Foil Common,0.16,1
+Taran - Magically Armed,Foil Uncommon,0.25,1
+Eeyore - In the Way,Foil Rare,0.91,1
+Meeko - Skittish Scrounger,Foil Uncommon,0.42,1
+Morgana Macawber - Reformed Spellcaster,Foil Rare,0.53,1
+Tinker Bell - Snowflake Collector,Foil Legendary,3.14,1
+Genie - Magical Researcher,Foil Rare,3.31,1
+Anna - Soothing Sister,Foil Legendary,4.51,1
+Kristoff - Icy Explorer,Foil Rare,0.51,1
+Anna - Little Sister,Foil Uncommon,0.67,1
+Marshmallow - Cranky Climber,Foil Rare,0.86,1
+Space Cows - Unexpected Allies,Foil Common,0.17,1
+Christopher Robin - Joining the Fun,Foil Uncommon,2.45,1
+Lumpy - Playful Heffalump,Foil Common,0.19,1
+"Witches of Morva - Orddu, Orwen, and Orgoch",Foil Rare,0.52,1
+Heihei - Persistent Presence,Foil Common,0.15,1
+Pua - Disgruntled Pig,Foil Common,0.16,1
+Sven - Leaping Reindeer,Foil Super Rare,6.05,1
+Do You Want to Build A Snowman?,Foil Rare,1.15,1
+Come Out and Fight!,Foil Common,0.18,1
+Swordplay,Foil Common,0.15,1
+Colors of the Wind,Foil Super Rare,1.66,1
+Mother's Necklace,Foil Uncommon,0.21,1
+Mystical Inkcaster,Foil Rare,0.28,1
+Pot of Honey,Foil Common,0.12,1
+The Frozen Vine - Monstrous Plant,Foil Uncommon,0.26,1
+Mulan - Resourceful Recruit,Foil Super Rare,2.72,1
+Stitch - Naughty Experiment,Foil Common,0.34,1
+Big Mama - Clever and Calming,Foil Uncommon,0.38,1
+Minnie Mouse - Spinning Skater,Foil Common,0.18,1
+Yao - Snow Warrior,Foil Common,0.16,1
+Chien-Po - Snow Warrior,Foil Uncommon,0.19,1
+Ling - Snow Warrior,Foil Rare,0.38,1
+Boomer - Has the Beak,Foil Common,0.19,1
+Chernabog - Unnatural Force,Foil Super Rare,0.9,1
+Dinky - Has the Brains,Foil Common,0.16,1
+Stegmutt - Clumsy Dinosaur,Foil Rare,0.3,1
+Squeaks - Cozy Caterpillar,Foil Common,0.15,1
+Aladdin - On the Edge of Adventure,Foil Common,0.2,1
+Mushu - Sneaky Dragon,Foil Uncommon,0.21,1
+Goofy - Ghost of Jacob Marley,Foil Super Rare,1.74,1
+Copper - Champion of the Forest,Foil Rare,0.79,1
+Copper - Hound Pup,Foil Common,0.2,1
+Vixey - Forest Friend,Foil Uncommon,0.41,1
+Tod - All Alone,Foil Common,0.19,1
+Minnie Mouse - Mrs. Cratchit,Foil Rare,0.56,1
+White Rabbit - Late Again,Foil Uncommon,0.4,1
+Tod - Playful Kit,Foil Rare,0.76,1
+Mickey Mouse - Snowboard Ace,Foil Uncommon,0.34,1
+Tod - Knows All the Tricks,Foil Legendary,5.49,1
+Donald Duck - Fred Honeywell,Foil Legendary,6.9,1
+Strike A Good Match,Foil Common,0.13,1
+Snowball Fight,Foil Common,0.17,1
+Freeze the Vine,Foil Rare,0.56,1
+Education or Elimination,Foil Uncommon,0.42,1
+Snow Fort,Foil Uncommon,2.51,1
+Rafiki's Bakora Staff,Foil Uncommon,0.21,1
+Retro Evolution Device,Foil Rare,0.63,1
+Battering Ram,Foil Rare,0.36,1
+Game Preserve - Protected Land,Foil Common,0.2,1
+Wreck-it Ralph - Raging Wrecker,Foil Legendary,6.36,1
+Scrooge McDuck - Ghostly Ebenezer,Foil Uncommon,1.81,1
+Donald Duck - Nephew Fred,Foil Common,0.18,1
+Taurus Bulba - Steerminator,Foil Common,0.13,1
+Copper - On the Scent,Foil Uncommon,0.46,1
+Mulan - Ready for Battle,Foil Uncommon,0.41,1
+Maui - Snow Slider,Foil Common,0.24,1
+Fa Zhou - Honorable Warrior,Foil Common,0.17,1
+Liquidator - Iced Over,Foil Uncommon,0.79,1
+Elisa Maza - Transformed Gargoyle,Foil Rare,0.5,1
+Iduna - Alarmed Queen,Foil Common,0.35,1
+Agnarr - King of Arendelle,Foil Common,0.38,1
+Negaduck - Evil Doppelganger,Foil Common,0.25,1
+Negaduck - Public Enemy Number One,Foil Rare,1.01,1
+Hercules - Spectral Demigod,Foil Common,0.2,1
+Beast - Snowfield Troublemaker,Foil Super Rare,0.7,1
+Slushy - Glacial Guster,Foil Uncommon,0.55,1
+Goofy - Marley's Clumsy Spirit,Foil Common,0.25,1
+Goofy - Klutzy Skier,Foil Rare,0.71,1
+Olaf - Snowman of Action,Foil Rare,0.58,1
+Elsa - Ice Artisan,Foil Legendary,5.5,1
+Scrooge McDuck - Ebenezer Scrooge,Foil Super Rare,1.22,1
+Elsa - Concerned Sister,Foil Uncommon,0.26,1
+Willie the Giant - Ghost of Christmas Present,Foil Rare,0.3,1
+Nani's Payback,Foil Super Rare,0.6,1
+Force of a Great Typhoon,Foil Common,0.29,1
+Marching Off to Battle,Foil Common,0.34,1
+The Cold Never Bothered Me,Foil Rare,0.62,1
+Grab Your Bow,Foil Uncommon,0.94,1
+Lonely Grave,Foil Uncommon,0.27,1
+Kristoff's Lute,Foil Rare,0.58,1
+Scrooge's Counting House - Ebenezer's Office,Foil Uncommon,0.42,1
+Graveyard of Christmas Future - Lonely Resting Place,Foil Rare,2.21,1
+Beast's Castle - Winter Gardens,Foil Common,0.18,1
+Roo - Little Helper,Foil Uncommon,0.5,1
+Kanga - Peaceful Gatherer,Foil Common,0.31,1
+Piglet - Entranced by Snow,Foil Common,0.13,1
+Mickey Mouse - Tiny Tim's Father,Foil Common,0.16,1
+Minnie Mouse - Tiny Tim's Mother,Foil Common,0.17,1
+Sina - Vigilant Parent,Foil Common,0.17,1
+Honker Muddlefoot - Timid Genius,Foil Common,0.15,1
+Daisy Duck - Isabel,Foil Uncommon,0.3,1
+Darkwing Duck - Drake Mallard,Foil Uncommon,0.37,1
+Jiminy Cricket - Ghost of Christmas Past,Foil Uncommon,0.26,1
+Piglet - Cocoa Maker,Foil Rare,0.44,1
+Gramma Tala - Connected to Nature,Foil Rare,0.4,1
+Gosalyn Mallard - Curious Child,Foil Uncommon,0.2,1
+Darkwing Duck - Dashing Gadgeteer,Foil Super Rare,0.7,1
+Winnie the Pooh - Hungry Bear,Foil Common,0.15,1
+Scrooge McDuck - Reformed Ebenezer,Foil Legendary,5.5,1
+Splatter Phoenix - Rejected Artist,Foil Uncommon,0.33,1
+Pete - Ghost of Christmas Future,Foil Rare,8.8,1
+Moana - Curious Explorer,Foil Legendary,24.09,1
+Tamatoa - Seeker of Shine,Foil Super Rare,0.76,1
+Morty Fieldmouse - Tiny Tim,Foil Rare,0.6,1
+Belle - Snowfield Strategist,Foil Super Rare,3.69,1
+Mickey Mouse - Bob Cratchit,Foil Rare,0.56,1
+Scrooge McDuck - Miserly Ebenezer,Foil Common,0.16,1
+Chief Tui - Weaving a Tale,Foil Common,0.09,1
+Visiting Christmas Past,Foil Rare,0.45,1
+Let It Go,Foil Rare,1.97,1
+Distract,Foil Common,0.18,1
+Wipe Out!,Foil Uncommon,0.19,1
+Blue Smoke,Foil Common,0.15,1
+Tiny Tim's Crutch,Foil Common,0.16,1
+Darkwing's Chair Set,Foil Rare,0.35,1
+Darkwing's Gas Device,Foil Uncommon,0.24,1
+Hidden Trap,Foil Uncommon,0.19,1
+Rapunzel - Ethereal Protector,Foil Rare,0.44,1
+Launchpad - Hideout Defender,Foil Uncommon,0.21,1
+Prince Naveen - Bundled Up,Foil Common,0.15,1
+Darkwing Duck - Crime Fighter,Foil Common,0.31,1
+Li Shang - Solemn Son,Foil Common,0.2,1
+Gantu - Hamsterviel's Accomplice,Foil Uncommon,0.8,1
+Launchpad - Trusty Sidekick,Foil Common,0.19,1
+Donald Duck - Along for the Ride,Foil Common,0.22,1
+Chief - Seasoned Tracker,Foil Uncommon,0.25,1
+Amos Slade - Tenacious Tracker,Foil Common,0.17,1
+McHorn - Ice-Cold Officer,Foil Common,0.19,1
+Duke Weaselton - Surly Crook,Foil Rare,0.58,1
+Li Shang - Valiant Leader,Foil Uncommon,0.24,1
+Nani - No Worries,Foil Common,0.18,1
+Stitch - High Badness Level,Foil Common,0.24,1
+Dr. Hamsterviel - Infamous Scientist,Foil Rare,0.47,1
+Angela - Night Warrior,Foil Super Rare,1.14,1
+Darkwing Duck - Darkwarrior,Foil Rare,0.7,1
+Gigi - Best in Snow,Foil Uncommon,0.51,1
+Grand Councilwoman - Galactic Authority,Foil Rare,0.58,1
+Angel - Experiment 624,Foil Legendary,43.06,1
+Darkwing Duck - Cool Under Pressure,Foil Legendary,9.13,1
+John Smith - Undaunted Protector,Foil Super Rare,0.73,1
+Judy Hopps - Snowball Patrol,Foil Uncommon,0.28,1
+Lilo - Bundled Up,Foil Super Rare,4.42,1
+Keep the Ancient Ways,Foil Uncommon,0.69,1
+The Terror That Flaps in the Night,Foil Common,0.31,1
+Let's Get Dangerous,Foil Rare,0.95,1
+Winterspell,Foil Uncommon,0.24,1
+Nearly Indestructible,Foil Common,0.2,1
+Infra-Pink Ultra Scan Specs,Foil Common,0.14,1
+The Thunderquack,Foil Rare,1.18,1
+Containment Unit,Foil Rare,0.3,1
+Darkwing Tower - Icy Headquarters,Foil Uncommon,0.54,1
+Tiana - Warm and Happy,Epic,2.99,1
+Grandmother Willow - Ancient Advisor,Epic,18.96,1
+Stitch - Carefree Snowboarder,Epic,22.05,1
+Tigger - Bouncing All the Way,Epic,12.61,1
+Anna - Little Sister,Epic,4.61,1
+Genie - Magical Researcher,Epic,12.05,1
+Aladdin - On the Edge of Adventure,Epic,2.51,1
+Mushu - Sneaky Dragon,Epic,3.02,1
+Minnie Mouse - Mrs. Cratchit,Epic,3.52,1
+Hercules - Spectral Demigod,Epic,3.25,1
+Elsa - Concerned Sister,Epic,3.76,1
+Goofy - Klutzy Skier,Epic,2.78,1
+Winnie the Pooh - Hungry Bear,Epic,9.08,1
+Jiminy Cricket - Ghost of Christmas Past,Epic,3.1,1
+Mickey Mouse - Bob Cratchit,Epic,3.77,1
+Donald Duck - Along for the Ride,Epic,3.72,1
+Judy Hopps - Snowball Patrol,Epic,4.46,1
+Rapunzel - Ethereal Protector,Epic,3.17,1
+Lilo - Rock Star,Enchanted,84.25,1
+Ohana Means Family,Enchanted,160.46,1
+Raging Storm,Enchanted,143.21,1
+Eeyore - In the Way,Enchanted,207.06,1
+Anna - Soothing Sister,Enchanted,115.76,1
+Colors of the Wind,Enchanted,107.99,1
+Mulan - Resourceful Recruit,Enchanted,71.95,1
+Tod - Knows All the Tricks,Enchanted,82.85,1
+Freeze the Vine,Enchanted,57.5,1
+Negaduck - Public Enemy Number One,Enchanted,77.39,1
+Elsa - Ice Artisan,Enchanted,170.21,1
+The Cold Never Bothered Me,Enchanted,85.2,1
+Scrooge McDuck - Reformed Ebenezer,Enchanted,104.75,1
+Belle - Snowfield Strategist,Enchanted,136.07,1
+Tamatoa - Seeker of Shine,Enchanted,75.18,1
+Angel - Experiment 624,Enchanted,215.13,1
+Darkwing Duck - Cool Under Pressure,Enchanted,90.67,1
+Let's Get Dangerous,Enchanted,73.23,1
+Pocahontas - Peacekeeper,Iconic,449.43,1
+Moana - Curious Explorer,Iconic,565.28,1
