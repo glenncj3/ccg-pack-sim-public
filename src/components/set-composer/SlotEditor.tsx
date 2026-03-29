@@ -166,7 +166,7 @@ export function SlotEditor({ set }: Props) {
     <div className="bg-bg-secondary rounded-lg border border-border p-4">
       <div className="flex items-center justify-between mb-4">
         <div className="w-24" />
-        <h3 className="text-lg font-semibold text-center">Slots ({set.slots.length} / {set.packSize})</h3>
+        <h3 className="text-lg font-semibold text-center flex-1">Slots ({set.slots.length} / {set.packSize})</h3>
         <div className="flex gap-2 justify-end">
           {set.slots.length === 0 && set.packSize > 0 && (
             <button

@@ -109,7 +109,7 @@ export function RarityEditor({ set }: Props) {
     <div className="bg-bg-secondary rounded-lg border border-border p-4">
       <div className="flex items-center justify-between mb-4">
         <div className="w-24" />
-        <h3 className="text-lg font-semibold text-center">Rarities</h3>
+        <h3 className="text-lg font-semibold text-center flex-1">Rarities</h3>
         <div className="flex gap-2 justify-end">
           {hasAvailableGap && (
             <button
